@@ -9,7 +9,7 @@ I'm a **Unity Game Developer** passionate about creating games and learning new 
 - Exploring **game systems development** (inventory, combat, AI).  
 
 ## 📂 Portfolio  
-You can check out my portfolio here: **[Notion Portfolio](#https://empty-foe-efd.notion.site/Arthur-s-Portfolio-18227a83cfa38053b172faff3c723906)**  
+You can check out my portfolio here: **[[Notion Portfolio](https://empty-foe-efd.notion.site/Arthur-s-Portfolio-18227a83cfa38053b172faff3c723906)](#)**  
 
 ## 📫 Get in Touch  
 - ✉️ Email: **kenzygamedev@gmail.com**  
