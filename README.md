@@ -26,8 +26,9 @@ You can check out my portfolio here:
 ### kenzygamedev@gmail.com
 
 ---
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzyps&show_icons=true&theme=tokyonight)
 
-## 📊 Language Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzyps&layout=compact&theme=tokyonight)  
+
 
 😄 **Pronouns:** He/Him
