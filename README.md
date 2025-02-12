@@ -21,8 +21,9 @@ You can check out my portfolio here:
 ---
 
 ## 📫 Get in Touch  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenzygamedev@gmail.com)  
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kenzyps.itch.io)  
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kenzyps.itch.io) 
+
+### kenzygamedev@gmail.com
 
 ---
 
