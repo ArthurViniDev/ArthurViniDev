@@ -27,7 +27,7 @@ You can check out my portfolio here:
 
 ---
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzyps&show_icons=true&theme=tokyonight)
+![ArthurViniDev's Stats](https://github-readme-stats.vercel.app/api?username=ArthurViniDev&theme=darcula&show_icons=true&hide_border=false&count_private=true)
 
 
 
