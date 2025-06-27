@@ -12,8 +12,6 @@ I enjoy working with **C#** and constantly improving my skills in **game develop
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
----
-
 ## 📂 Portfolio  
 You can check out my portfolio here:  
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://empty-foe-efd.notion.site/Arthur-s-Portfolio-18227a83cfa38053b172faff3c723906)  
