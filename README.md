@@ -1,5 +1,4 @@
 # Welcome 👋  
-![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanI4Ync0NnZxZ2R1cnQ2bTljbjN5MDZweXRxdHk3enY1bjA1NTg4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
 ## -> About Me  
 I'm a **Game Developer** passionate about creating games and learning new development techniques.  
