@@ -1,4 +1,5 @@
 # Welcome 👋  
+I'm Arthur
 
 ## -> About Me  
 I'm a **Game Developer** passionate about creating games and learning new development techniques.  
