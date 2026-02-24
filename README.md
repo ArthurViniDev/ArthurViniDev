@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm Arthur and welcome to my github profile
+I'm Arthur and welcome to my profile
 
 ## -> About Me  
 I'm a **Game Developer** passionate about creating games and learning new development techniques.  
