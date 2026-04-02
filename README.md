@@ -2,8 +2,8 @@
 I'm Arthur and welcome to my profile :)
 
 ## -> About Me  
-I'm a **Game Developer** passionate about creating games and learning new development techniques/algorithms.  
-I enjoy working with **C#** and constantly improving my skills in **Game Development**.  
+I'm a **.NET Developer** passionate about development, creating games and learning new techniques/algorithms.  
+I enjoy working with **C#** and constantly improving my skills in **Software Development**.  
 
 ![Unity GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d4ODJkc2NxcXI0djl1ZTdnbzd0dW5uM3hldW92OG5yY2o4cmptaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xc3R3j4KFMvH01ZWaJ/giphy.gif)
 
