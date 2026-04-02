@@ -21,7 +21,7 @@ You can check out my portfolio here:
 ## -> Get in Touch  
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kenzyps.itch.io) 
 
-### kenzygamedev@gmail.com
+### arthurvinisoares727@gmail.com
 
 ---
 
