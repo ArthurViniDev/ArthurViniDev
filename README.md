@@ -21,8 +21,6 @@ You can check out my portfolio here:
 ## -> Get in Touch  
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kenzyps.itch.io) 
 
-### arthurvinisoares727@gmail.com
-
 ---
 
 -> **Pronouns:** He/Him
